@@ -1,10 +1,10 @@
-# Interactive Form with SVG Animations
+# Interactive Login Page with SVG Animations
 
-This project is an interactive form with SVG animations that enhance the user experience. The form includes input fields for name, email, and a checkbox, along with a submit button. The SVG animations include a grabbing hand, a sprayer, gears, and other interactive elements that respond to user actions.
+This project is an interactive login page with SVG animations that enhance the user experience. The form includes input fields for name, email, and a checkbox, along with a submit button. The SVG animations include a grabbing hand, a sprayer, gears, and other interactive elements that respond to user actions.
 
 ## Features
 
-- **Interactive Form**: 
+- **Interactive Login Page**: 
   - Input fields for name and email.
   - Checkbox for user agreement.
   - Submit button to process the form.
@@ -29,8 +29,8 @@ This project is an interactive form with SVG animations that enhance the user ex
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-repository/interactive-form.git
-   cd interactive-form
+   git clone https://github.com/your-repository/login-page-animation.git
+   cd login-page-animation
    ```
 
 2. **Open the Project**:
